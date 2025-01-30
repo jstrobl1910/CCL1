@@ -31,18 +31,18 @@ This mini-golf puzzle game challenges your precision and strategic thinking! Can
 ## 🎨 **Spritesheets**
 Below are the sprites used to create characters and objects in the game:
 
-### Player Character:
+### Golf Ball:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
-  <p>*Figure 3: Player character animations.*</p>
+  <img src="golf_ball.png" alt="ball" width="500">
+  <p>*Figure 3: Golf Ball animations.*</p>
 </div>
 
 ---
 
-### Enemies and NPCs:
+### Waterpit:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <img src="waterpit_sprite_short.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Water animation.*</p>
 </div>
 
 ---
