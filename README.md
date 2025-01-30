@@ -33,7 +33,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Golf Ball:
 <div style="text-align: center;">
-  <img src="golf_ball.png" alt="ball" width="500">
+  <img src="golf_ball.png" alt="ball" width="40">
   <p>*Figure 3: Golf Ball animations.*</p>
 </div>
 
