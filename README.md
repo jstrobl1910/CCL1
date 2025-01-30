@@ -49,14 +49,15 @@ Below are the sprites used to create characters and objects in the game:
 
 ## ✍️ **Reflection**
 
-### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+## What Went Well  
+- **Level Design:** Designing and testing levels was both fun and rewarding, adding depth to the gameplay.  
+- **Mouse Click Movement:** Implementing movement based on mouse clicks worked surprisingly well with the right math.  
 
-### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+## Challenges  
+- **Gravity & Movement:** Balancing gravity with smooth movement was tricky. Adjusting `xVelocity` and `yVelocity` was necessary for better control.  
+- **Collision Handling:** The `applyGravity` function originally only checked for top and bottom collisions, so I had to add horizontal collision detection.  
 
-### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+## Lessons Learned  
+- **Understand Core Functions First:** Fully understanding how `applyGravity` worked was crucial for avoiding unexpected behavior.  
+- **Keep It Simple:** At times, I overcomplicated the physics, but a simpler approach often gave the best results.  
+
