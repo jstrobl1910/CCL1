@@ -13,7 +13,7 @@ This mini-golf puzzle game challenges your precision and strategic thinking! Can
 
 ---
 
-### Menu and UI:
+### Startscreen:
 <div style="text-align: center;">
   <img src="menu.png" alt="Startscreen" width="600">
   <p>Startscreen</p>
