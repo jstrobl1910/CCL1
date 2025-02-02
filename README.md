@@ -43,7 +43,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Obstacle:
 <div style="text-align: center;">
   <img src="hydraulic_press_down.png" alt="Hydraulic Press" width="30">
-  <p>Water animation-spritesheet</p>
+  <p>Hydraulic Press</p>
 </div>
 
 ---
