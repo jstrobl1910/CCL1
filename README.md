@@ -15,7 +15,7 @@ This mini-golf puzzle game challenges your precision and strategic thinking! Can
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Menu UI Screenshot" width="600">
+  <img src="menu.png" alt="Startscreen" width="600">
   <p>Startscreen</p>
 </div>
 
@@ -34,7 +34,15 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Waterpit:
 <div style="text-align: center;">
-  <img src="waterpit_sprite_short.png" alt="Enemy Spritesheet" width="500">
+  <img src="waterpit_sprite_short.png" alt="Waterpit" width="500">
+  <p>Water animation-spritesheet</p>
+</div>
+
+---
+
+### Obstacle:
+<div style="text-align: center;">
+  <img src="hydraulic_press_down.png" alt="Hydraulic Press" width="500">
   <p>Water animation-spritesheet</p>
 </div>
 
