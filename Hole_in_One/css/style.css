@@ -1,0 +1,103 @@
+#gameContainer {
+    position: relative;
+    width: 1000px; /* change according to your game */
+    height: 700px; /* change according to your game */
+    margin: 0 auto;
+}
+
+#strokeCount {
+    text-align: center;
+    padding-top: 1rem; /* Adjust padding as needed */
+    font-weight: bold;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    z-index: 1000; /* Ensure visibility */
+    position: static; /* Allow it to naturally flow below the canvas */
+    display: none;
+}
+
+#canvas {
+    position: relative;
+    left: 0;
+    top: 0;
+    
+}
+
+#background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1000px; 
+    height: 700px;
+    background-image: url("../images/background.png"); /* if you want to use a background */
+    background-size: cover;
+
+}
+
+#startScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Trebuchet MS';
+    background-image: url("../images/background.png"); /* translucent dark overlay */
+    color: #fff;                          /* white text */
+    display: flex;                        /* center content with flexbox */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    z-index: 999;  /* ensure it's on top of the canvas/background */
+  }
+
+  #startButton {
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    border-radius: 50px;
+  }
+
+  #startButton:hover {
+    background-color: #e4e4e4;
+  }
+
+
+
+
+#endScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Trebuchet MS';
+    color: #fff;                          /* white text */
+    display: flex;                        /* center content with flexbox */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;  /* ensure it's on top of the canvas/background */
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none; /* Hidden by default */
+}
+
+#endScreen h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#againButton {
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+#againButton:hover {
+    background-color: #e4e4e4; /* Slightly darker blue */
+}
+/* add styles for other HTML elements of your game */
