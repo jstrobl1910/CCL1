@@ -8,7 +8,7 @@ This mini-golf puzzle game challenges your precision and strategic thinking! Can
 ### Main Gameplay:
 <div style="text-align: center;">
   <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
-  <p>*Figure 1: Example of gameplay in action.*</p>
+  <p> Gameplay in action.</p>
 </div>
 
 ---
@@ -16,7 +16,7 @@ This mini-golf puzzle game challenges your precision and strategic thinking! Can
 ### Menu and UI:
 <div style="text-align: center;">
   <img src="menu.png" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: Menu and user interface.*</p>
+  <p>Startscreen</p>
 </div>
 
 ---
@@ -26,8 +26,8 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Golf Ball:
 <div style="text-align: center;">
-  <img src="golf_ball.png" alt="ball" width="40">
-  <p>*Figure 3: Golf Ball animations.*</p>
+  <img src="golf_ball.png" alt="ball" width="60">
+  <p>Golf Ball animation-spritesheet.</p>
 </div>
 
 ---
@@ -35,7 +35,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Waterpit:
 <div style="text-align: center;">
   <img src="waterpit_sprite_short.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Water animation.*</p>
+  <p>Water animation-spritesheet</p>
 </div>
 
 ---
