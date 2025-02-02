@@ -3,13 +3,6 @@
 
 This mini-golf puzzle game challenges your precision and strategic thinking! Can you guide the ball through all levels filled with tricky obstacles? Remember, the fewer strokes you take, the better your score. Aim wisely and master the course!
 
----
-
-## 🌐 **Play the Game**
-[Click here to play the game!](https://your-github-username.github.io/repository-name)
-
----
-
 ## 📸 **Screenshots**
 
 ### Main Gameplay:
